@@ -1,5 +1,5 @@
 # HelperTools-Unity
-Set of helper tools for Unity3D.
+## Set of helper tools for Unity3D.
 
 ![Main Window](Images/main_window.png)
 
@@ -13,14 +13,13 @@ Set of helper tools for Unity3D.
 
 ## Installation
 
-### Unity Assets Store.
+### Unity Asset Store.
 > soon
 
-### Downloading unitypackage
+### Download unitypackage
 
 - Goto `Unitypackages` folder and download appropriate unitypackage.
 - Then double click on it or drag it directly to your Unity3D scene
-
 
 ## Usage
 Just use new menu `Rustam Tools`.
