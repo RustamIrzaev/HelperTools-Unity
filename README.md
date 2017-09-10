@@ -1,5 +1,5 @@
 # HelperTools-Unity
-## Set of helper tools for Unity3D.
+## Set of different helper tools for Unity3D.
 
 ![Main Window](Images/main_window.png)
 
@@ -9,7 +9,7 @@
 2) Calculate `vertex` count for the object
 3) Calculate `triangles` count for the object
 4) Calculate `polygons` count for the object (polygons = triangles / 3)
-5) Calculate total aoumt of `child` objects
+5) Calculate total amount of `child` objects
 
 ## Installation
 
